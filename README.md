@@ -1,71 +1,46 @@
 # cocoas README
 
-This is the README for your extension "cocoas". After writing up a brief description, we recommend including the following sections.
+Copy codes as wanted.
+
+I first made this extension since when I request someone a feedback for my code, or ask something on Internet or ChatGPT, I always needed the file path.
+
+Therefore, I got this extension for those to easily copy the path with the code.
+
+And will update features with more options of how to copy codes.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### Command keys
 
-For example if there is an image subfolder under your extension project workspace:
+> Windows/Linux: `ctrl + shift + c + f`
 
-\!\[feature X\]\(images/feature-x.png\)
+> Mac: `cmd + shift + c + f`
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+<img width="100%" src="https://github.com/taehwan01/cocoas/assets/111658806/1b05e111-635c-4b99-8d41-232029ab9c42"/>
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Available only on `.js` files.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+### Command: extension.cocoas
 
-For example:
+### Command keys
 
-This extension contributes the following settings:
+- Windows/Linux: `ctrl + shift + c + f`
+- Mac: `cmd + shift + c + f`
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+<!-- ## Known Issues -->
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 0.0.1
 
-### 1.0.0
+[2023-10-05]
 
-Initial release of ...
+Initial release of cocoas.
 
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Copy code with the associated file name as a comment.
 
 **Enjoy!**

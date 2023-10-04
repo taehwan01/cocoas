@@ -1,5 +1,6 @@
 {
   "name": "cocoas",
+  "publisher": "monte",
   "displayName": "cocoas",
   "description": "Copy codes as wanted.",
   "version": "0.0.1",
@@ -14,8 +15,15 @@
   "contributes": {
     "commands": [
       {
-        "command": "cocoas.helloWorld",
-        "title": "Hello World"
+        "command": "extension.cocoas",
+        "title": "Copy Codes As Wanted."
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "extension.cocoas",
+        "key": "ctrl+shift+c+f",
+        "mac": "cmd+shift+c+f"
       }
     ]
   },
@@ -44,5 +52,9 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "@vscode/test-electron": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taehwan01/cocoas.git"
   }
 }
