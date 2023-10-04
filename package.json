@@ -2,6 +2,7 @@
   "name": "cocoas",
   "publisher": "monte",
   "displayName": "cocoas",
+  "icon": "images/COCOAS_ICON.png",
   "description": "Copy codes as wanted.",
   "version": "0.0.1",
   "engines": {
