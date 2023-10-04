@@ -16,7 +16,7 @@ And will update features with more options of how to copy codes.
 
 > Mac: `cmd + shift + c + f`
 
-<img width="100%" src="https://github.com/taehwan01/cocoas/assets/111658806/1b05e111-635c-4b99-8d41-232029ab9c42"/>
+<img width="100%" src="https://github.com/taehwan01/cocoas/assets/111658806/d7bc982d-0a47-4cf7-8aaf-f34b7dd86b93"/>
 
 ## Requirements
 
