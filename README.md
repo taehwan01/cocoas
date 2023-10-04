@@ -43,4 +43,10 @@ Initial release of cocoas.
 
 Copy code with the associated file name as a comment.
 
+### 0.0.2
+
+[2023-10-05]
+
+Added demonstration video of copying code with the associated file name as a comment.
+
 **Enjoy!**
