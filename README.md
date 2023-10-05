@@ -39,22 +39,20 @@ If any, please let me know by adding an issue on my repository.
 
 ### 0.0.1
 
-[2023-10-05]
-
 Initial release of cocoas.
 
 Copy code with the associated file name as a comment.
 
 ### 0.0.2
 
-[2023-10-05]
-
 Added demonstration video of copying code with the associated file name as a comment.
 
 ### 0.0.3
 
-[2023-10-05]
-
 Change shortcut to avoid keybinding conflicts.
+
+### 0.0.4
+
+Fixed shortcut in docs.
 
 **Enjoy!**
