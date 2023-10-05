@@ -28,8 +28,8 @@ Available only on `.js` files.
 
 ### Command keys
 
-- Windows/Linux: `ctrl + shift + c + f`
-- Mac: `cmd + shift + c + f`
+- Windows/Linux: `ctrl + shift + / f`
+- Mac: `cmd + shift + / f`
 
 ## Known Issues
 
