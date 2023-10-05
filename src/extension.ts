@@ -8,7 +8,7 @@ import * as path from 'path';
 export function activate(context: vscode.ExtensionContext) {
   // Use the console to output diagnostic information (console.log) and errors (console.error)
   // This line of code will only be executed once when your extension is activated
-  console.log('Your extension "copy-code-with-file-name" is now successfully active!');
+  console.log('Your extension "cocoas" is now successfully active!');
 
   // The command has been defined in the package.json file
   // Now provide the implementation of the command with registerCommand
@@ -33,7 +33,7 @@ export function activate(context: vscode.ExtensionContext) {
         const projectRoot = path.basename(projectFolderPath);
         const codeWithFilePath = `/* ${projectRoot}${path.sep}${relativeFilePath.replace(
           /\\/g,
-          '/'
+          '/',
         )} */\n${selectedCode}`;
         // console.log({ fileName, projectFolder, projectFolderPath, relativeFilePath, projectRoot });
         vscode.env.clipboard.writeText(codeWithFilePath);

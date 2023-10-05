@@ -12,9 +12,9 @@ And will update features with more options of how to copy codes.
 
 ### Command keys
 
-> Windows/Linux: `ctrl + shift + c + f`
+> Windows/Linux: `ctrl + shift + / f`
 
-> Mac: `cmd + shift + c + f`
+> Mac: `cmd + shift + / f`
 
 <img width="100%" src="https://github.com/taehwan01/cocoas/assets/111658806/d7bc982d-0a47-4cf7-8aaf-f34b7dd86b93"/>
 
@@ -31,7 +31,9 @@ Available only on `.js` files.
 - Windows/Linux: `ctrl + shift + c + f`
 - Mac: `cmd + shift + c + f`
 
-<!-- ## Known Issues -->
+## Known Issues
+
+If any, please let me know by adding an issue on my repository.
 
 ## Release Notes
 
@@ -48,5 +50,11 @@ Copy code with the associated file name as a comment.
 [2023-10-05]
 
 Added demonstration video of copying code with the associated file name as a comment.
+
+### 0.0.3
+
+[2023-10-05]
+
+Change shortcut to avoid keybinding conflicts.
 
 **Enjoy!**

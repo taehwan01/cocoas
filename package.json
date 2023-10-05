@@ -4,27 +4,30 @@
   "displayName": "cocoas",
   "icon": "images/COCOAS_ICON.PNG",
   "description": "Copy codes as wanted.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.82.0"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:extension.cocoas"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
         "command": "extension.cocoas",
-        "title": "Copy Codes As Wanted."
+        "title": "cocoas - Copy codes as wanted."
       }
     ],
     "keybindings": [
       {
         "command": "extension.cocoas",
-        "key": "ctrl+shift+c+f",
-        "mac": "cmd+shift+c+f"
+        "key": "ctrl+shift+/ f",
+        "mac": "cmd+shift+/ f",
+        "when": "editorTextFocus"
       }
     ]
   },
