@@ -8,6 +8,8 @@ Therefore, I got this extension for those to easily copy the path with the code.
 
 And will update features with more options of how to copy codes.
 
+[GO TO MARKETPLACE & SEE 'cocoas'](https://marketplace.visualstudio.com/items?itemName=monte.cocoas)
+
 ## Features
 
 ### Command keys
